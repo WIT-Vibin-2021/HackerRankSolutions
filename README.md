@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.hackerrank.com/mailme_vibin">
-    <img alt="HackerRank" src="https://github.com/WIT-Vibin-2021/HackerRankSolutions/blob/main/Utilities/HackerRank.png">
+    <img alt="HackerRank" src="https://github.com/WIT-Vibin-2021/HackerRank_LeetCode_Solutions/blob/main/Utilities/Code.jpg">
   </a>
 </p>
 <!--<p align="center">
